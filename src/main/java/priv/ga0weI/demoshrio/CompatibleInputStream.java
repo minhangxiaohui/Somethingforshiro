@@ -5,6 +5,10 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 
+/**
+ * @author ga0weI
+ * @readme for resolve the differ uid
+ */
 public class CompatibleInputStream extends ObjectInputStream {
     private static Logger logger = LoggerFactory.getLogger(CompatibleInputStream.class);
     public CompatibleInputStream(InputStream in) throws IOException {

@@ -10,6 +10,11 @@ import java.io.*;
 import java.lang.reflect.Field;
 import java.util.PriorityQueue;
 
+/**
+ * @author  ga0weI
+ * @deprecated  for cb payload ,same as ysoserial
+ */
+
 //
 //
 //Gadget chain:
